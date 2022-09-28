@@ -1,0 +1,5 @@
+/node_modules
+/buildtest
+/build
+/srctest
+webpack.testServer.js
